@@ -27,14 +27,22 @@ Designed using clean HTML and CSS with responsive design principles.
 ---
 
 ## 📁 Folder Structure
-Web work/ ├── Calculator/ │ 
+```
+  Web work/
+          ├── Calculator/
+                        │ 
                         └── (HTML, CSS, JS files for Calculator) 
-        ├── Login Authentication/ │
+          ├── Login Authentication/
+                                  │
                                   └── (HTML, CSS files for Login System)
-        ├── To-Do Web App/ │ 
+          ├── To-Do Web App/
+                           │ 
                            └── (HTML, CSS, JS files for To-Do App) 
-        |── Tribute Page/ |
+          |── Tribute Page/
+                          |
                           └── (HTML, CSS files for Tribute Page)
+
+```
 
  
 Each folder contains its respective project files along with necessary assets.
